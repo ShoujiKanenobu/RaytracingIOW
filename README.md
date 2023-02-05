@@ -10,6 +10,8 @@ I was shortsighted and didnt save each image that the raytracer produced, but mo
 
 I tried for a while to figure out some other interset functions to produce different shapes, but this raytracer doesn't seem to match the architecture of others that I looked at making resources hard to find. In the future I want to try implementing the functions listed here: https://iquilezles.org/articles/intersectors/
 
+Lastly, the time it takes to render a complex scene is insane and grows exponentially. Optimization in the book isnt covered much as the book claims that most optimizations do not give very good benefits, but I would like to look into it anyway. 
+
 ![Cornell Box](https://cdn.discordapp.com/attachments/640817300173357058/1071543313796169788/vMJAAAAAASUVORK5CYII.png)
 
 Resources:
