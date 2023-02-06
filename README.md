@@ -12,7 +12,7 @@ I tried for a while to figure out some other interset functions to produce diffe
 
 Lastly, the time it takes to render a complex scene is insane and grows exponentially. Optimization in the book isnt covered much as the book claims that most optimizations do not give very good benefits, but I would like to look into it anyway. 
 
-![Cornell Box](https://cdn.discordapp.com/attachments/640817300173357058/1071543313796169788/vMJAAAAAASUVORK5CYII.png)
+![Final Render](https://cdn.discordapp.com/attachments/640817300173357058/1072259088228040764/wPjqeec3LAvIAAAAABJRU5ErkJggg.png)
 
 Resources:
 [_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
